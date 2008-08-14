@@ -15,6 +15,7 @@ BuildRequires:  ruby-devel
 BuildRequires:  freetype2-devel
 BuildRequires:  libpng-devel
 BuildRequires:  zlib-devel
+BuildRoot:      %{_tmppath}/%{name}-%{version}
 
 %description
 Ruby/GD (formerly known as "GD") is an extension
