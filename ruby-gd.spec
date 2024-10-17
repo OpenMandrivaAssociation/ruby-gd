@@ -8,7 +8,7 @@ Release:	%{release}
 Summary:    An interface to Boutell GD library
 Group:      Development/Ruby
 License:    BSD-like
-URL:        http://rubyforge.org/projects/ruby-gd/
+URL:        https://rubyforge.org/projects/ruby-gd/
 Source:     http://rubyforge.org/frs/download.php/39577/%{name}-%{version}.gem
 BuildRequires:  gd-devel
 BuildRequires:  ruby-devel
